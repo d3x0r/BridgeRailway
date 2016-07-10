@@ -1,0 +1,12 @@
+{
+  "item":
+  [
+    ["bridge-straight-rail", "bridge-rail"],
+    ["bridge-curved-rail", "bridge-rail"]
+  ],
+  "recipe":
+  [
+    ["bridge-straight-rail", "bridge-rail"],
+    ["bridge-curved-rail", "bridge-rail"]
+  ]
+}

@@ -8,11 +8,7 @@ data:extend(
     {
       {
         type = "unlock-recipe",
-        recipe = "bridge-straight-rail"
-      },
-      {
-        type = "unlock-recipe",
-        recipe = "bridge-curved-rail"
+        recipe = "bridge-rail"
       }
     },
     prerequisites = {"automated-rail-transportation"},
