@@ -35,7 +35,7 @@ end
 --    rail_category = "regular",
 --    bending_type = "straight",
 --    pictures = railpicturesinternal({{"metals", "metals"}, {"backplates", "backplates"}, {"ties", "ties"}, {"stone_path", "stone-path"}})
---  }, 
+--  },
 --  {
 --    type = "curved-rail",
 --    name = "bridge-curved-rail",
