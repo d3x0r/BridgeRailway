@@ -6,6 +6,6 @@
   "contact": "https://github.com/MrP123",
   "homepage": "https://github.com/MrP123/BridgeRailway",
   "description": "A mod that adds rails which can be placed on water",
-	"factorio_version":"0.13",
-  "dependencies": ["base >= 0.13.0"]
+	"factorio_version":"0.14",
+  "dependencies": ["base"]
 }
