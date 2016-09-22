@@ -1,5 +1,7 @@
 # BridgeRailway
-An old mod for [Factorio](http://www.factorio.com) that I wrote a year ago. It adds rails that can be placed on water
+An (old) mod for [Factorio](http://www.factorio.com) that I initially wrote a year ago.
+
+It adds rails (and signals) that can be placed on water, in order to make travel on water possible.
 
 License
 =======
