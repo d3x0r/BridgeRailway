@@ -3,6 +3,8 @@ An (old) mod for [Factorio](http://www.factorio.com) that I initially wrote a ye
 
 It adds rails (and signals) that can be placed on water, in order to make travel on water possible.
 
+This mod is now obsolete with the addition of Landfill to the Factorio base game.
+
 License
 =======
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
