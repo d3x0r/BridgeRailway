@@ -4,6 +4,7 @@ data:extend(
     type = "technology",
     name = "bridge-railway",
     icon = "__BridgeRailway__/graphics/bridge-railway-tech.png",
+    icon_size = 32,
     effects =
     {
       {
@@ -28,6 +29,7 @@ data:extend(
   	type = "technology",
   	name = "bridge-railway-signals",
   	icon = "__BridgeRailway__/graphics/bridge-railway-tech.png",
+    icon_size = 32,
   	effects = 
   	{
   		{
